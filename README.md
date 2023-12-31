@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my GitHub page 👋
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/somethingwas/somethingwas/main/text.gif" alt="Haiou Chen" width="433" height="74" />
+</div>
 
 <!--
 **somethingwas/somethingwas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
